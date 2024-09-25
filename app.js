@@ -45,7 +45,7 @@ var instructor = {
             }
           }
 
-        //Answer
+        // Answer
         const instructor = {
             firstName: "Colt",
             sayHi () {
@@ -60,7 +60,7 @@ const d = createAnimal("dog", "bark", "Woooof!")
 
 d.bark()  
 
-const s = createAnimal("sheep", "bleet", "BAAAAaaaa")
+const s = createAnimal("sheep", "bleet", "BAAAAaa")
 
 s.bleet()
 
